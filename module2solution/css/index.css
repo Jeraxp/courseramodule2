@@ -1,0 +1,35 @@
+	*{
+		box-sizing: border-box; 
+	}
+	div{
+		background-color: white;
+	}
+	p{
+		width:30%;
+		border:3px solid black;
+		float: left;
+		margin-right: 10px;
+
+	}
+
+	#p1 {
+		background-color: grey;
+		float: left;
+
+
+	}
+	#p2 {
+		background-color: grey;
+		
+
+	}
+	#p3 {
+		background-color: grey
+
+
+	}
+
+	section {
+		clear: left;
+
+	}

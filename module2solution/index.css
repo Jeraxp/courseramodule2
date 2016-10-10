@@ -10,9 +10,7 @@
 		float: left;
 		margin: 40px;
 		padding: 10px;
-		box-sizing: content-box; justify-content: 1;
-
-
+		box-sizing: content-box; 
 
 	}
 
@@ -33,6 +31,7 @@
 
 
 	}
+
 
 	section {
 		clear: left;
